@@ -11,7 +11,7 @@ public class FixEngine {
         if (ViaMCP.getInstance().getVersion() == ViaMCP.PROTOCOL_VERSION) {
             return 16.0F;
         } else {
-            return 69.420F;
+            return 89.64F;
         }
     }
 }
